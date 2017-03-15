@@ -477,3 +477,7 @@ Styling with Markdown is supported
     © 2017 GitHub, Inc. Terms Privacy Security Status Help 
 
 
+
+delete de uma tag
+
+git tag -d nomedatag
